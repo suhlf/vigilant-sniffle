@@ -88,7 +88,7 @@
 <div class = "container">
 <div class = "row">
 	<table class = "table class = table-striped" style = "text-align : center; border : 1px solid #dddddd"><%--색상이 홀짝수가 번갈아서 나와 더 가독성 높여줌 --%>
-		<thead><%--테이블 가장 위ㅉ쪽 --%>
+		<thead><%--테이블 가장 위쪽 --%>
 			<tr>
 				<th colspan = "3" style = "background-color : #eeeeee; text-align: center;">게시판 글보기 </th>
 			</tr>		
